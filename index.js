@@ -1,4 +1,4 @@
-let async = require('./libs/async');
+let async = require('asyncnodejlasri');
 let request = require('./libs/request');
 let config = require('./config.json');
 

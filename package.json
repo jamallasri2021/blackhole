@@ -1,0 +1,22 @@
+{
+  "name": "blackhole",
+  "version": "1.0.0",
+  "description": "blackhole",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamallasri2021/blackhole.git"
+  },
+  "author": "Jamal LASRI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamallasri2021/blackhole/issues"
+  },
+  "homepage": "https://github.com/jamallasri2021/blackhole#readme",
+  "dependencies": {
+    "asyncnodejlasri": "^1.0.0"
+  }
+}
