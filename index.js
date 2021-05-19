@@ -1,7 +1,7 @@
 let async = require('asyncnodejlasri');
 let request = require('./libs/request');
 let config = require('./config.json');
-
+//Test commit push
 async.map(config.images, request, (error, result) => {
     if (error) {
         return console.log(error);
